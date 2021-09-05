@@ -1,0 +1,11 @@
+#Input are all in register format
+#Registers are availble from 0-32
+#Instruction supported are General Instruction except BEQ, JNZ
+#Last Instructio should be either BRK or HLT to stop giving input
+#Copy the inputs and paste in Consol as direct input is not being fetch now
+
+
+ADD 2 3 4
+SUB 5 2 4
+MUL 5 5 6
+HLT
